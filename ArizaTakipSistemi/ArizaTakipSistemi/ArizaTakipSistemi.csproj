@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6856E2D6-D592-4699-8048-DB6B68647AD8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ArizaTakipSistemi</RootNamespace>
+    <AssemblyName>ArizaTakipSistemi</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmArizaGecmisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmArizaGecmisi.Designer.cs">
+      <DependentUpon>frmArizaGecmisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilgisayarIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBilgisayarIslemleri.Designer.cs">
+      <DependentUpon>frmBilgisayarIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGirisEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGirisEkrani.Designer.cs">
+      <DependentUpon>frmGirisEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKullaniciEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKullaniciEkrani.Designer.cs">
+      <DependentUpon>frmKullaniciEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKullaniciIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKullaniciIslemleri.Designer.cs">
+      <DependentUpon>frmKullaniciIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYoneticiEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYoneticiEkrani.Designer.cs">
+      <DependentUpon>frmYoneticiEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYoneticiIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYoneticiIslemleri.Designer.cs">
+      <DependentUpon>frmYoneticiIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmArizaGecmisi.resx">
+      <DependentUpon>frmArizaGecmisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBilgisayarIslemleri.resx">
+      <DependentUpon>frmBilgisayarIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGirisEkrani.resx">
+      <DependentUpon>frmGirisEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKullaniciEkrani.resx">
+      <DependentUpon>frmKullaniciEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKullaniciIslemleri.resx">
+      <DependentUpon>frmKullaniciIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYoneticiEkrani.resx">
+      <DependentUpon>frmYoneticiEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYoneticiIslemleri.resx">
+      <DependentUpon>frmYoneticiIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anahtar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arkaplan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ekle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guncelle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kilit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yenile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buyuksimge.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kucuksimge.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kapat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sifre.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

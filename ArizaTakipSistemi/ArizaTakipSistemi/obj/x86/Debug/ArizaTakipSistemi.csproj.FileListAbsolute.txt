@@ -1,0 +1,127 @@
+c:\users\oguzhan\documents\visual studio 2010\Projects\ArizaTakipSistemi\ArizaTakipSistemi\bin\Debug\ArizaTakipSistemi.exe
+c:\users\oguzhan\documents\visual studio 2010\Projects\ArizaTakipSistemi\ArizaTakipSistemi\bin\Debug\ArizaTakipSistemi.pdb
+c:\users\oguzhan\documents\visual studio 2010\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmGirisEkrani.resources
+c:\users\oguzhan\documents\visual studio 2010\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmKullaniciEkrani.resources
+c:\users\oguzhan\documents\visual studio 2010\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmYoneticiEkrani.resources
+c:\users\oguzhan\documents\visual studio 2010\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.Properties.Resources.resources
+c:\users\oguzhan\documents\visual studio 2010\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.csproj.GenerateResource.Cache
+c:\users\oguzhan\documents\visual studio 2010\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.exe
+c:\users\oguzhan\documents\visual studio 2010\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.pdb
+C:\Users\OGUZHAN\documents\visual studio 2010\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmYoneticiIslemleri.resources
+C:\Users\OGUZHAN\documents\visual studio 2010\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmKullaniciIslemleri.resources
+C:\Users\OGUZHAN\documents\visual studio 2010\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmBilgisayarIslemleri.resources
+C:\Users\OGUZHAN\documents\visual studio 2010\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmArizaIslemleri.resources
+C:\Users\OGUZHAN\documents\visual studio 2010\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.csprojResolveAssemblyReference.cache
+F:\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.exe
+F:\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.pdb
+E:\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.exe
+E:\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.pdb
+E:\Projects\ArizaTakipSistemi\ArizaTakipSistemi\bin\Debug\ArizaTakipSistemi.exe
+E:\Projects\ArizaTakipSistemi\ArizaTakipSistemi\bin\Debug\ArizaTakipSistemi.pdb
+E:\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.csprojResolveAssemblyReference.cache
+E:\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmArizaIslemleri.resources
+E:\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmBilgisayarIslemleri.resources
+E:\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmGirisEkrani.resources
+E:\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmKullaniciEkrani.resources
+E:\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmKullaniciIslemleri.resources
+E:\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmYoneticiEkrani.resources
+E:\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmYoneticiIslemleri.resources
+E:\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.Properties.Resources.resources
+E:\Projects\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\TFG-TASARIM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.exe
+C:\Users\TFG-TASARIM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.pdb
+C:\Users\TFG-TASARIM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\bin\Debug\ArizaTakipSistemi.exe
+C:\Users\TFG-TASARIM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\bin\Debug\ArizaTakipSistemi.pdb
+C:\Users\TFG-TASARIM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\TFG-TASARIM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmBilgisayarIslemleri.resources
+C:\Users\TFG-TASARIM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmGirisEkrani.resources
+C:\Users\TFG-TASARIM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmKullaniciEkrani.resources
+C:\Users\TFG-TASARIM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmKullaniciIslemleri.resources
+C:\Users\TFG-TASARIM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmYoneticiEkrani.resources
+C:\Users\TFG-TASARIM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmYoneticiIslemleri.resources
+C:\Users\TFG-TASARIM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.Properties.Resources.resources
+C:\Users\TFG-TASARIM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.csproj.GenerateResource.Cache
+E:\OGUZHAN\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.exe
+E:\OGUZHAN\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.pdb
+C:\Users\IREM\Desktop\Yeni klasör\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.exe
+C:\Users\IREM\Desktop\Yeni klasör\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.pdb
+C:\Users\IREM\Desktop\Yeni klasör\ArizaTakipSistemi\ArizaTakipSistemi\bin\Debug\ArizaTakipSistemi.exe
+C:\Users\IREM\Desktop\Yeni klasör\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IREM\Desktop\Yeni klasör\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmArizaIslemleri.resources
+C:\Users\IREM\Desktop\Yeni klasör\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmBilgisayarIslemleri.resources
+C:\Users\IREM\Desktop\Yeni klasör\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmGirisEkrani.resources
+C:\Users\IREM\Desktop\Yeni klasör\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmKullaniciEkrani.resources
+C:\Users\IREM\Desktop\Yeni klasör\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmKullaniciIslemleri.resources
+C:\Users\IREM\Desktop\Yeni klasör\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmYoneticiEkrani.resources
+C:\Users\IREM\Desktop\Yeni klasör\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmYoneticiIslemleri.resources
+C:\Users\IREM\Desktop\Yeni klasör\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.Properties.Resources.resources
+C:\Users\IREM\Desktop\Yeni klasör\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IREM\Desktop\Yeni klasör\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IREM\Desktop\Yeni klasör\ArizaTakipSistemi\ArizaTakipSistemi\bin\Debug\ArizaTakipSistemi.pdb
+C:\Users\TFG-TASARIM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmArizaGecmisi.resources
+E:\Yeni klasör (4)\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.exe
+E:\Yeni klasör (4)\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.pdb
+C:\Users\IREM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.exe
+C:\Users\IREM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.pdb
+C:\Users\IREM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\bin\Debug\ArizaTakipSistemi.exe
+C:\Users\IREM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\bin\Debug\ArizaTakipSistemi.pdb
+C:\Users\IREM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IREM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmArizaGecmisi.resources
+C:\Users\IREM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmBilgisayarIslemleri.resources
+C:\Users\IREM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmGirisEkrani.resources
+C:\Users\IREM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmKullaniciEkrani.resources
+C:\Users\IREM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmKullaniciIslemleri.resources
+C:\Users\IREM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmYoneticiEkrani.resources
+C:\Users\IREM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmYoneticiIslemleri.resources
+C:\Users\IREM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.Properties.Resources.resources
+C:\Users\IREM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IREM\Desktop\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Dogukan\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.exe
+E:\Dogukan\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.pdb
+E:\Dogukan\ArizaTakipSistemi\ArizaTakipSistemi\bin\Debug\ArizaTakipSistemi.exe
+E:\Dogukan\ArizaTakipSistemi\ArizaTakipSistemi\bin\Debug\ArizaTakipSistemi.pdb
+E:\Dogukan\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.csprojResolveAssemblyReference.cache
+E:\Dogukan\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmArizaGecmisi.resources
+E:\Dogukan\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmBilgisayarIslemleri.resources
+E:\Dogukan\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmGirisEkrani.resources
+E:\Dogukan\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmKullaniciEkrani.resources
+E:\Dogukan\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmKullaniciIslemleri.resources
+E:\Dogukan\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmYoneticiEkrani.resources
+E:\Dogukan\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmYoneticiIslemleri.resources
+E:\Dogukan\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.Properties.Resources.resources
+E:\Dogukan\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.csproj.GenerateResource.Cache
+E:\Dogukan\HAFİZE\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.exe
+E:\Dogukan\HAFİZE\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.pdb
+C:\Users\Hakkı Ogut\Desktop\HAFİZE\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.exe
+C:\Users\Hakkı Ogut\Desktop\HAFİZE\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.pdb
+C:\Users\Hakkı Ogut\Desktop\HAFİZE\ArizaTakipSistemi\ArizaTakipSistemi\bin\Debug\ArizaTakipSistemi.exe
+C:\Users\Hakkı Ogut\Desktop\HAFİZE\ArizaTakipSistemi\ArizaTakipSistemi\bin\Debug\ArizaTakipSistemi.pdb
+C:\Users\Hakkı Ogut\Desktop\HAFİZE\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Hakkı Ogut\Desktop\HAFİZE\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmArizaGecmisi.resources
+C:\Users\Hakkı Ogut\Desktop\HAFİZE\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmBilgisayarIslemleri.resources
+C:\Users\Hakkı Ogut\Desktop\HAFİZE\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmGirisEkrani.resources
+C:\Users\Hakkı Ogut\Desktop\HAFİZE\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmKullaniciEkrani.resources
+C:\Users\Hakkı Ogut\Desktop\HAFİZE\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmKullaniciIslemleri.resources
+C:\Users\Hakkı Ogut\Desktop\HAFİZE\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmYoneticiEkrani.resources
+C:\Users\Hakkı Ogut\Desktop\HAFİZE\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmYoneticiIslemleri.resources
+C:\Users\Hakkı Ogut\Desktop\HAFİZE\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.Properties.Resources.resources
+C:\Users\Hakkı Ogut\Desktop\HAFİZE\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.csproj.GenerateResource.Cache
+D:\HAFIZE\HAFİZE\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.exe
+D:\HAFIZE\HAFİZE\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.pdb
+C:\Users\HafizeOgut\OneDrive\Masaüstü\Yapay_Zeka_Programcısı_Eğitim_Belgeleri\ArizaTakipSistemi\ArizaTakipSistemi\bin\Debug\ArizaTakipSistemi.exe.config
+C:\Users\HafizeOgut\OneDrive\Masaüstü\Yapay_Zeka_Programcısı_Eğitim_Belgeleri\ArizaTakipSistemi\ArizaTakipSistemi\bin\Debug\ArizaTakipSistemi.exe
+C:\Users\HafizeOgut\OneDrive\Masaüstü\Yapay_Zeka_Programcısı_Eğitim_Belgeleri\ArizaTakipSistemi\ArizaTakipSistemi\bin\Debug\ArizaTakipSistemi.pdb
+C:\Users\HafizeOgut\OneDrive\Masaüstü\Yapay_Zeka_Programcısı_Eğitim_Belgeleri\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\HafizeOgut\OneDrive\Masaüstü\Yapay_Zeka_Programcısı_Eğitim_Belgeleri\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\HafizeOgut\OneDrive\Masaüstü\Yapay_Zeka_Programcısı_Eğitim_Belgeleri\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmArizaGecmisi.resources
+C:\Users\HafizeOgut\OneDrive\Masaüstü\Yapay_Zeka_Programcısı_Eğitim_Belgeleri\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmBilgisayarIslemleri.resources
+C:\Users\HafizeOgut\OneDrive\Masaüstü\Yapay_Zeka_Programcısı_Eğitim_Belgeleri\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmGirisEkrani.resources
+C:\Users\HafizeOgut\OneDrive\Masaüstü\Yapay_Zeka_Programcısı_Eğitim_Belgeleri\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmKullaniciEkrani.resources
+C:\Users\HafizeOgut\OneDrive\Masaüstü\Yapay_Zeka_Programcısı_Eğitim_Belgeleri\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmKullaniciIslemleri.resources
+C:\Users\HafizeOgut\OneDrive\Masaüstü\Yapay_Zeka_Programcısı_Eğitim_Belgeleri\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmYoneticiEkrani.resources
+C:\Users\HafizeOgut\OneDrive\Masaüstü\Yapay_Zeka_Programcısı_Eğitim_Belgeleri\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.frmYoneticiIslemleri.resources
+C:\Users\HafizeOgut\OneDrive\Masaüstü\Yapay_Zeka_Programcısı_Eğitim_Belgeleri\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.Properties.Resources.resources
+C:\Users\HafizeOgut\OneDrive\Masaüstü\Yapay_Zeka_Programcısı_Eğitim_Belgeleri\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.csproj.GenerateResource.cache
+C:\Users\HafizeOgut\OneDrive\Masaüstü\Yapay_Zeka_Programcısı_Eğitim_Belgeleri\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\HafizeOgut\OneDrive\Masaüstü\Yapay_Zeka_Programcısı_Eğitim_Belgeleri\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.exe
+C:\Users\HafizeOgut\OneDrive\Masaüstü\Yapay_Zeka_Programcısı_Eğitim_Belgeleri\ArizaTakipSistemi\ArizaTakipSistemi\obj\x86\Debug\ArizaTakipSistemi.pdb
